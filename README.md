@@ -1,1 +1,1 @@
-# Dynamics 365 assets
+# Repository for Dynamics 365 assets
